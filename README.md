@@ -8,7 +8,7 @@ pro playlists.
 ## Replacements (34 in total)
 
 | Default                            | Replacement         |
-|----------------------------------------------------------|
+|------------------------------------|---------------------|
 | Bear Witness                       | Bye Run             |
 | Blue Collar                        | Lead by Speed       |
 | Buena Vista                        | Metropolitan Manji  |
