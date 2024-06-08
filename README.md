@@ -13,6 +13,22 @@ For example, the server knows that Buena Vista is an A+ race with 23 checkpoints
 in total. Where these checkpoints are placed and other properties are managed by
 your client.
 
+## Known issues
+
+Because the starting grid is server-side, upon starting a race you will not
+spawn on the replacement track but rather the default one.
+
+What is the solution? Well, if you look at the map during the countdown, you
+will see a yellow line. This points to where the replacement track is. If
+you drive to the opposite direction of that line, you will reset to where the
+replacement track is.
+
+This, however, comes with a few caveats. If the replacement track starts..
+
+- in a tunnel, you will reset outside the world map and fall for a few seconds
+  until you reset properly again
+- on a bridge, there is a likely chance you will reset under it
+
 ## Replacements (55 in total)
 
 | Default                            | Replacement                  |
