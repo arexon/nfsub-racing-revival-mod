@@ -13,27 +13,11 @@ For example, the server knows that Buena Vista is an A+ race with 23 checkpoints
 in total. Where these checkpoints are placed and other properties are managed by
 your client.
 
-## Known issues
-
-Because the starting grid is server-side, upon starting a race you will not
-spawn on the replacement track but rather the default one.
-
-What is the solution? Well, if you look at the map during the countdown, you
-will see a yellow line. This points to where the replacement track is. If
-you drive to the opposite direction of that line, you will reset to where the
-replacement track is.
-
-This, however, comes with a few caveats. If the replacement track starts..
-
-- in a tunnel, you will reset outside the world map and fall for a few seconds
-  until you reset properly again
-- on a bridge, there is a likely chance you will reset under it
-
 ## Replacements (55 in total)
 
 | Default                            | Replacement                  |
 | ---------------------------------- | ---------------------------- |
-| Apex Predator                      | Lakeside (10 laps)           |
+| Apex Predator                      | Ostinato (40 laps)           |
 | Bear Witness                       | Bye Run (2 laps)             |
 | Big City Life                      | City Limits (3 laps)         |
 | Blue Collar                        | Lead by Speed                |
@@ -41,7 +25,7 @@ This, however, comes with a few caveats. If the replacement track starts..
 | City Limits                        | Factory Fresh                |
 | Dark Night                         | Colossus                     |
 | Drifter's Delight                  | Cross-Town Hustle            |
-| Endgame                            | Ostinato (13 laps)           |
+| Endgame                            | Rapid Transit (4 laps)       |
 | Factory Record                     | The Last Stretch             |
 | Get High Tonight                   | Testing Terrain              |
 | Get High, Get Low                  | Solar Cycle (3 laps)         |
@@ -68,7 +52,9 @@ This, however, comes with a few caveats. If the replacement track starts..
 | Ostinato                           | Wild Thing                   |
 | Pipe Down                          | Factory Fresh                |
 | Power                              | A1 Day 1                     |
+| Rapid Transit                      | Get High, Get Low            |
 | Ridin' Dirty                       | Cage Match (2 laps)          |
+| Riding the L                       | Buena Vista                  |
 | Road Trippin'                      | Kansai Style                 |
 | Rock The Boat                      | Blindside (2 laps)           |
 | Rush Hour                          | Testing Terrain              |
@@ -84,6 +70,7 @@ This, however, comes with a few caveats. If the replacement track starts..
 | The Hustle                         | Redline Racer                |
 | The Long Climb                     | City Serpent                 |
 | The OG                             | Block Party (2 laps)         |
+| The Scenic Route                   | Lakeside (13 laps)           |
 | Track Day B-Side                   | Shopping Spree (5 laps)      |
 | Track Day Special                  | Track Day B-Side (2 laps)    |
 | Violent Nature                     | Old Town Road                |

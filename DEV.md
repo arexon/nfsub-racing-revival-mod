@@ -1,6 +1,6 @@
 | Default track          | Checkpoints | ID                 | New track           | Checkpoints     | ID                           | Checkpoints modifications                               |
 | ---------------------- | ----------- | ------------------ | ------------------- | --------------- | ---------------------------- | ------------------------------------------------------- |
-| Apex Predator (2 Laps) | 81          | D1_DRIFT-SR02_Vol2 | Lakeside            | 8x10 (81)       | D5_MS03_SR05                 |                                                         |
+| Apex Predator (2 Laps) | 81          | D1_DRIFT-SR02_Vol2 | Ostinato            | 6 -> 2x40 (81)  | D5_MS04_SR02                 | Move (1 -> 4) to split routes in 0                      |
 | Bear Witness           | 25          | D6_LHD-SR03_Vol2   | Bye Run             | 12x2 (25)       | MP_DriftPro_Vol7_11          |                                                         |
 | Big City Life          | 43          | D3_MS04_SR06       | City Limits         | 16 -> 14x3 (43) | D3_MS02_SR11                 | 7, 9                                                    |
 | Blue Collar            | 23          | D6_MS03_SR04       | Lead by Speed       | 38 -> 23        | D4_Vol6_SR17                 | 2, 4, 5, 13, 16, 20, 21, 23, 24, 28, 31, 32, 34, 35, 36 |
@@ -8,7 +8,7 @@
 | City Limits            | 33          | D3_MS02_SR11       | Factory Fresh       | 35 -> 33        | D5_Vol6_SR21                 | 4, 11                                                   |
 | Dark Night             | 55          | D4_Vol6_SR04       | Colossus            | 64 -> 55        | D4_MS04_MTHN                 | 8, 10, 32, 35, 38, 41, 50, 52, 59                       |
 | Drifter's Delight      | 20          | D1_MS02_SR06       | Cross-Town Hustle   | 21 -> 20        | D4_Vol7_SR04                 | 19                                                      |
-| Endgame                | 53          | D4_Vol6_SR12       | Ostinato            | 6 -> 4x13 (53)  | D5_MS04_SR02                 | 1, 3                                                    |
+| Endgame                | 53          | D4_Vol6_SR12       | Rapid Transit       | 13x4 (53)       | D1_MS03_SR08                 |                                                         |
 | Factory Record         | 18          | D3_MS0_SR12        | The Last Stretch    | 21 -> 18        | D1_Vol7_SR09                 | 5, 7, 12                                                |
 | Get High Tonight       | 23          | D1_MS03_SR04       | Testing Terrain     | 32 -> 23        | D2_Vol6_SR23                 | 1, 3, 9, 10, 13, 17, 20, 23, 30                         |
 | Get High, Get Low      | 49          | D1_Vol6_SR06       | Solar Cycle         | 18 -> 16x3 (49) | D2_Vol6_SR16                 | 1, 4                                                    |
@@ -35,7 +35,9 @@
 | Ostinato               | 25          | D5_MS04_SR02       | Wild Thing          | 25              | D1_MS02_SR12                 |                                                         |
 | Pipe Down              | 35          | D6_Vol6_SR02       | Factory Fresh       | 35              | D5_Vol6_SR21                 |                                                         |
 | Power                  | 22          | D7_MS01_SR04       | A1 Day 1            | 27 -> 22        | D4_Vol6_SR07                 | 4, 6, 13, 15, 24                                        |
+| Rapid Transit          | 40          | D1_MS03_SR08       | Get High, Get Low   | 49              | D1_Vol6_SR06                 | 2, 8, 12                                                |
 | Ridin' Dirty           | 31          | D7_RUM_Coalyard    | Cage Match          | 15x2 (31)       | D7_Vol6_SR22                 |                                                         |
+| Riding the L           | 21          | D4_MS01_SR10       | Buena Vista         | 23 -> 21        | D1_MS0_SR06                  | 0, 20                                                   |
 | Road Trippin'          | 65          | D1_MS02_SR10       | Kansai Style        | 68 -> 65        | MP_DriftProEndurance_Vol7_08 | 12, 34, 37                                              |
 | Rock The Boat          | 49          | D4_RUM_Pier        | Blindside           | 25 -> 24x2 (49) | D1_Vol6_SR24                 | 1                                                       |
 | Rush Hour              | 32          | D4_Vol6_SR20       | Testing Terrain     | 32              | D2_Vol6_SR23                 |                                                         |
@@ -51,6 +53,7 @@
 | The Hustle             | 29          | D4_MS0_QV          | Redline Racer       | 30 -> 29        | D7_Vol6_SR28                 | 28                                                      |
 | The Long Climb         | 22          | D1_MS02_SR02       | City Serpent        | 23 -> 22        | D4_DRIFT-DC06_Vol3           | 6                                                       |
 | The OG                 | 23          | D7_MS01_SR10       | Block Party         | 14 -> 11x2 (23) | D5_Vol6_SR19                 | 2, 3, 6                                                 |
+| The Scenic Route       | 66          | D5_MS03_SR10       | Lakeside            | 8 -> 5x13 (65)  | D5_MS03_SR05                 | 2, 4, 6                                                 |
 | Track Day B-Side       | 46          | D1_Vol6_SR11       | Shopping Spree      | 10 -> 9x5 (46)  | D3_MS0_SR11                  | 1                                                       |
 | Track Day Special      | 17          | D1_MS02_SR03       | Track Day B-Side    | 15 -> 8x3 (17)  | D1_Vol6_SR11                 | 1, 3, 5, 8, 9, 11, 14                                   |
 | Violent Nature         | 42          | D4_Vol6_SR05       | Old Town Road       | 47 -> 42        | D1_MS01_SR12                 | 6, 14, 18, 23, 27                                       |
