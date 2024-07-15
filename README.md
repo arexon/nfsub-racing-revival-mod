@@ -13,7 +13,7 @@ For example, the server knows that Buena Vista is an A+ race with 23 checkpoints
 in total. Where these checkpoints are placed and other properties are managed by
 your client.
 
-## Replacements (55 in total)
+## Replacements (57 in total)
 
 | Default                            | Replacement                  |
 | ---------------------------------- | ---------------------------- |
