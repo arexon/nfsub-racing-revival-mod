@@ -13,7 +13,7 @@ For example, the server knows that Buena Vista is an A+ race with 23 checkpoints
 in total. Where these checkpoints are placed and other properties are managed by
 your client.
 
-## Replacements (57 in total)
+## Replacements (59 in total)
 
 | Default                            | Replacement                  |
 | ---------------------------------- | ---------------------------- |
@@ -23,6 +23,7 @@ your client.
 | Blue Collar                        | Lead by Speed                |
 | Buena Vista                        | Metropolitan Manji           |
 | City Limits                        | Factory Fresh                |
+| Colossus                           | Turntable                    |
 | Dark Night                         | Colossus                     |
 | Drifter's Delight                  | Cross-Town Hustle            |
 | Endgame                            | Rapid Transit (4 laps)       |
@@ -62,6 +63,7 @@ your client.
 | Sky's The Limit                    | Lead by Speed                |
 | Slim Chance                        | Off The Grid                 |
 | Smoke Show                         | Run This Town                |
+| Straight Fire                      | Hard Eight                   |
 | Terrordome                         | Bayview Concrete             |
 | The Big O                          | Bank B-Side (4 laps)         |
 | The Boomdocks                      | Guess Who's Back (2 laps)    |
